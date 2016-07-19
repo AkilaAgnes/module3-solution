@@ -1,1 +1,42 @@
+#div1, #div2, #div3{
+	box-sizing: border-box;
+	
+	padding: 10px;
+	background-color: #8c8282;
+}
+#header-nav{
+	background-color: #8c8282;
+	color: black;
+	border: solid 2px black;
+}
 
+.navbar-default .navbar-brand {
+    color: #000000;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #000000;
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: white;
+}
+.navbar-default .navbar-nav>li {
+    
+    background-color: white;
+    border: solid 1px black;
+}
+.navbar-default .navbar-nav>li>a :hover {
+    
+    background-color: white;
+}
+.navbar-default .navbar-toggle {
+    border: solid 2px #000000;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #000000;
+}
+section{
+	margin-bottom: 25px;
+	color: #000000;
+}
